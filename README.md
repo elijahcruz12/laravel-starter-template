@@ -18,7 +18,7 @@ This will always be a work in progress, and I will be updating it as I find new 
 
 ## Usage
 
-1. Clone this repository
+1. Clone this repository (I recommend clicking on the "Use this template" button on GitHub to create a new repository with this template)
 2. Run `composer install`
 3. Run `cp .env.example .env`
 4. Run `php artisan key:generate`
