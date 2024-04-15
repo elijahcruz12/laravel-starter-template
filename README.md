@@ -11,6 +11,7 @@ My hope is that this template will make it easier for me to start new projects. 
 - Alpine.js
 - Tailwind CSS
 - TallStackUI
+- BunnyCDN Storage Support (With pull zone, Storage is defaulted to Los Angeles zone)
 
 This uses `@livewireScriptConfig`, and sets up livewire and alpine in `app.js`. It also creates a `layouts/app.blade.php` file that includes the necessary scripts and styles for livewire and alpine.
 
